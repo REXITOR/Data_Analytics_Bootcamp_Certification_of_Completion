@@ -5,7 +5,5 @@ https://www.youtube.com/watch?v=28r412KFhG4&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM
 
 ------------------------------------------------
 ![Data Analytics Bootcamp Certification of Completion](https://github.com/REXITOR/Data_Analytics_Bootcamp_Certification_of_Completion/blob/master/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion.jpg)
-------------------------------------------------
-![Verified Analytics Bootcamp Certification](https://github.com/REXITOR/Data_Analytics_Bootcamp_Certification_of_Completion/blob/master/Verified%20Analytics%20Bootcamp%20Certification.png)
 
 
